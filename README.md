@@ -1,1 +1,7 @@
-# 8-TypeScript-
+Repositório de TypeScript
+
+#Branchs:
+
+
+
+#Códigos: 
