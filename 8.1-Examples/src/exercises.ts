@@ -1,3 +1,5 @@
+// Funcoes de calcular areas geometricas
+
 export function getSquareArea(side: number): number {
   return side ** 2;
 }
