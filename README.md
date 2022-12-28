@@ -2,7 +2,7 @@
 
 ### Branchs: 
     - 8.1: Primeiros exemplos utilizando typescript.
-    - 8.2: Exemplos de Types, Classes e um aplicação de backend utilizando Sequelize, Mysql, dotEnv. 
+    - 8.2: Exemplos de Types, Classes e uma aplicação de backend utilizando Sequelize, Mysql, dotEnv. 
 ### Guia:
     Clone o projeto: git clone git@github.com:betim009/8-TypeScript.git
     Escolha entre as duas branchs: 8.1 ou 8.2
