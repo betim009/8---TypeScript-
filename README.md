@@ -5,7 +5,7 @@
     - 8.2: Exemplos de Types, Classes e uma aplicação de backend utilizando Sequelize,
            Mysql, dotEnv / Examples of Types, Class and One BackEnd aplication using
            Sequelize, Mysql, dotEnv 
-### Guia:
+### Guia / How to use:
     Clone o projeto / Clone project: git clone git@github.com:betim009/8-TypeScript.git
     Escolha entre as duas branchs / Choice between the two branchs : 8.1 or 8.2
     
