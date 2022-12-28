@@ -19,10 +19,9 @@
     npm run db:reset  
     npx ts-node src/testModel.ts    
     
+
 ### Imagens: 
     books_api:
-    ![image](https://user-images.githubusercontent.com/62117863/209870275-45504d92-dc84-465c-af55-dfff4cb976ef.png)
-
-
+    ![Captura de tela de 2022-12-28 17-47-01](https://user-images.githubusercontent.com/62117863/209870428-6334abf7-2931-442e-bf6a-0fae94e1a07e.png)
 
 🚀🚀🚀🚀
