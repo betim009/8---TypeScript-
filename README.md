@@ -22,6 +22,6 @@
 
 ### Imagens: 
     books_api:
-    ![Captura de tela de 2022-12-28 17-47-01](https://user-images.githubusercontent.com/62117863/209870428-6334abf7-2931-442e-bf6a-0fae94e1a07e.png)
-
+    https://user-images.githubusercontent.com/62117863/209870428-6334abf7-2931-442e-bf6a-0fae94e1a07e.png
+    
 🚀🚀🚀🚀
